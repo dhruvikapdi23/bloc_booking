@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "889224701647",
+    "project_id": "paxpass-dev",
+    "storage_bucket": "paxpass-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889224701647:android:60b86e5878d91529c079ba",
+        "android_client_info": {
+          "package_name": "com.paxpass.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889224701647-jium4vvf3la9tgfqm6id97v3akkm9kkn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paxpass.app",
+            "certificate_hash": "7f89249e1c270018f2181ee6ef0a0b514d1032eb"
+          }
+        },
+        {
+          "client_id": "889224701647-u5tubmg4a8uortt4dtctc1r8mb8iq9p3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4YKdYLlCzjdfzd5OkR3YwU0FwPwUbJP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889224701647-u5tubmg4a8uortt4dtctc1r8mb8iq9p3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
